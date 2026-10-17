@@ -1,9 +1,9 @@
 # Scope and System Description
 
 ## System Overview
-**System Name:** Northstar Medical Group Active Directory & EHR Environment
-**System Owner:** IT Security Department
-**Assessment Date:** [Insert Date]
+- **System Name:** Northstar Medical Group Active Directory & EHR Environment
+- **System Owner:** IT Security Department
+- **Assessment Date:** Saturday, October 17, 2026
 
 ## Purpose
 The purpose of this assessment is to evaluate the security posture of the Active Directory infrastructure and Electronic Health Record (EHR) system, identify risks, and recommend controls to protect sensitive patient data.
