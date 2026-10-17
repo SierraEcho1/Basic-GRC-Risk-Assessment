@@ -1,4 +1,4 @@
-# 03 - NIST CSF Gap Analysis
+# NIST CSF Gap Analysis
 
 ## Identify (ID)
 - **Current State:** Basic asset inventory is maintained in a spreadsheet.
