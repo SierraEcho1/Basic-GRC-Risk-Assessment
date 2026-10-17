@@ -1,4 +1,4 @@
-# GRC Risk Assessment — Northstar Medical Group
+# GRC Risk Assessment-Northstar Medical Group
 
 ## Overview
 Conducted a risk assessment of the Northstar Medical Group Active Directory and EHR environment, aligned to NIST CSF 2.0 and HIPAA Security Rule.
