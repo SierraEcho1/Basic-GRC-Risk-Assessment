@@ -8,5 +8,5 @@
 | R-004 | PHI Data at Rest | Data breach | Unencrypted database backups | 2 | 5 | 10 | None | Enable AES-256 encryption on backups |
 | R-005 | Remote Access | Network intrusion | No VPN requirement for remote access | 4 | 4 | 16 | None | Enforce VPN for all remote connections |
 
-*Risk Score = Likelihood x Impact (Scale: 1-25)*
-*Risk Levels: 1-6 (Low), 8-12 (Medium), 15-25 (High)*
+* Risk Score = Likelihood x Impact (Scale: 1-25)*
+* Risk Levels: 1-6 (Low), 8-12 (Medium), 15-25 (High)*
